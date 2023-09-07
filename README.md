@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yassine Souidi</h1>
-<h3 align="center">I recently obtained my Master's degree in Data Science from the Faculty of Sciences Semlalia in Marrakech, equipping me with a robust skill set in advanced data analytics and machine learning techniques. 
+<h3>I recently obtained my Master's degree in Data Science from the Faculty of Sciences Semlalia in Marrakech, equipping me with a robust skill set in advanced data analytics and machine learning techniques. 
 </br>
 My true passion lies in harnessing the power of state-of-the-art technologies like Computer Vision (CV), Machine Learning (ML), Deep Learning (DL), and Natural Language Processing (NLP) to address practical challenges and drive impactful solutions.</h3>
 
