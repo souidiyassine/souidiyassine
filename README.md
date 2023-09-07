@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yassine Souidi</h1>
-<h3 align="center">Student interested in data science, holder of a bachelor's degree in mathematical sciences and computer science, enrolled in 2nt year master specialized in data science at the Faculty of Sciences Semlalia.</h3>
+<h3 align="center">I recently obtained my Master's degree in Data Science from the Faculty of Sciences Semlalia in Marrakech, equipping me with a robust skill set in advanced data analytics and machine learning techniques. My true passion lies in harnessing the power of state-of-the-art technologies like Computer Vision (CV), Machine Learning (ML), Deep Learning (DL), and Natural Language Processing (NLP) to address practical challenges and drive impactful solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souidi1&label=Profile%20views&color=0e75b6&style=flat" alt="souidi1" /> </p>
 
