@@ -3,8 +3,6 @@
 </br>
 My true passion lies in harnessing the power of state-of-the-art technologies like Computer Vision (CV), Machine Learning (ML), Deep Learning (DL), and Natural Language Processing (NLP) to address practical challenges and drive impactful solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=souidi1&label=Profile%20views&color=0e75b6&style=flat" alt="souidi1" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souidiyassine" alt="souidiyassine" /></a> </p>
 
 - 📫 How to reach me **yassinesouidi4@gmail.com**
